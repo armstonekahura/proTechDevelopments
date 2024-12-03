@@ -1,6 +1,7 @@
 <?php
 // Include database configuration
-require_once '../config/db.php';
+require '../config/db.php';
+
 
 // Check if the form is submitted
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -33,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 } else {
     // Redirect if accessed without form submission
-    header("Location: ../views/contact.view.php");
+    header("Location: /proTechDevelopments/src/views/contact.view.php");
     exit;
 }
 ?>

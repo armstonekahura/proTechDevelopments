@@ -16,8 +16,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $stmt->execute([$name, $email, $service, $details]);
 
             // Redirects to a success page
-            header('Location: /?page=apply_success');
-            exit;
+            header("Location: /proTechDevelopments/src/views/apply_success.php");
+            exit();
         } catch (PDOException $e) {
             echo "Error: " . $e->getMessage();
         }

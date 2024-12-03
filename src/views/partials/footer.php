@@ -6,7 +6,7 @@
                     <h4 class="font-mono font-bold text-lg">Follow Us:</h4>
 
                     <div class="flex flex-col space-y-3">
-                        <i class="fa-brands fa-github cursor-pointer hover:text-green-400"> | <a class="font-mono hover:border hover:border-green-600 hover:rounded-md duration-200" href="#">Github</a></i>
+                        <i class="fa-brands fa-github cursor-pointer hover:text-green-400"> | <a class="font-mono hover:border hover:border-green-600 hover:rounded-md duration-200" href="https://github.com/armstonekahura/proTechDevelopments">Github</a></i>
                         <i class="fa-brands fa-facebook-f cursor-pointer hover:text-green-400"> | <a class="font-mono hover:border hover:border-green-600 hover:rounded-md duration-200" href="#">Facebook</a></i>
                         <i class="fa-brands fa-twitter cursor-pointer hover:text-green-400"> | <a class="font-mono hover:border hover:border-green-600 hover:rounded-md duration-200" href="#">Twitter</a></i>
                         <i class="fa-brands fa-instagram cursor-pointer hover:text-green-400"> | <a class="font-mono hover:border hover:border-green-600 hover:rounded-md duration-200" href="#">Instagram</a></i>
@@ -32,8 +32,8 @@
                         <div class="space-y-3">
                             <h4 class="font-bold text-lg">:</h4>
                             <ul class="space-y-2">
-                                <li class="underline hover:no-underline hover:text-green-400"><a href="#home">Github</a></li>
-                                <li class="underline hover:no-underline hover:text-green-400"><a href="#home">Testimonials</a></li>
+                                <li class="underline hover:no-underline hover:text-green-400"><a href="https://github.com/armstonekahura/proTechDevelopments">Github</a></li>
+                                <li class="underline hover:no-underline hover:text-green-400"><a href="">Testimonials</a></li>
                                 <li class="underline hover:no-underline hover:text-green-400"><a href="#home">Terms & Conditions</a></li>
                                 <li><button class="bg-green-600 text-color-primary px-9 py-1 rounded-md capitalize font-bold hover:opacity-80 ease-in duration-200">Register</button></li>
                                 <li><button class="bg-green-600 text-color-primary px-12 py-1 rounded-md capitalize font-bold hover:opacity-80 ease-in duration-200">Login</button></li>
@@ -68,3 +68,5 @@
 
     </div>
 </footer>
+
+<script src="/proTechDevelopments/public/js/main.js"></script>

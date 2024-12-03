@@ -27,6 +27,7 @@
             db.php
         /controllers
             process_application.php
+            submit_form.php
     package-lock.json
     package.json
     tailwind.config.js

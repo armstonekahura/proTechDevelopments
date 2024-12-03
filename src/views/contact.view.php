@@ -8,11 +8,11 @@
         <div class="text-start p-14 px-0">
             <h2 class="text-2xl font-bold mb-4">Follow Us On:</h2>
             <div class="flex flex-col space-y-3 items-start">
-                <i class="fa-brands fa-github cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="#">Github</a></i>
-                <i class="fa-brands fa-facebook-f cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="#">Facebook</a></i>
-                <i class="fa-brands fa-twitter cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="#">Twitter</a></i>
-                <i class="fa-brands fa-instagram cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="#">Instagram</a></i>
-                <i class="fa-brands fa-youtube cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="#">Youtube</a></i>
+                <i class="fa-brands fa-github cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="https://github.com/armstonekahura/proTechDevelopments">Github</a></i>
+                <i class="fa-brands fa-facebook-f cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="www.facebook.com">Facebook</a></i>
+                <i class="fa-brands fa-twitter cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="www.twitter.com">Twitter</a></i>
+                <i class="fa-brands fa-instagram cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="www.instagram.com">Instagram</a></i>
+                <i class="fa-brands fa-youtube cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="www.youtube.com">Youtube</a></i>
                 <i class="fa-brands fa-whatsapp cursor-pointer hover:text-color-text-mary"> | <a class="font-mono hover:border hover:border-color-text-mary hover:rounded-md duration-200" href="#">+2547 42 000 008</a></i>
             </div>
         </div>
